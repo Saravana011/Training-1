@@ -4,3 +4,10 @@ S3 bucket, Lambda, cloud formatiom stack,
 
 AWS CLI is kinda of a comment prompt 
 
+S3 bucket -  service datafile if asked to store data in S3 bucket 
+we will be creating files like 
+*error
+*
+*bin
+
+
